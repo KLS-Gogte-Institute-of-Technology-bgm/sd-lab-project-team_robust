@@ -6,8 +6,8 @@ PROBLEM STATEMENT : Web Based E-Commerce Shopping System.
   System and User Requirements:
   
     System Requirements : 1] Allow customers to view products from their home.
-                          2] Allow customers to make purchases and receive products from their home.
-                          3] Customers are able to make payments from credit card or Debit Card or UPI.
+                          2] Allow customers to make purchases and receive products from their home. (Just a Demo)
+                          3] Customers are able to make payments from credit card or Debit Card or UPI. (Just a Demo)
                           4] Product descriptions must be easily maintained and updated by store employees.
                           5] Allow customers to add or remove items from shopping cart.
                           6] Allow customers to view and track the ordered items.
